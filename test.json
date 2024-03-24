@@ -1,6 +1,4 @@
 [
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"aropweb"},
 {"type":"table","name":"i_spectacles","database":"aropweb","data":
 [
 {"id":"1","i_saison_id":"13","i_opera_id":"3","i_genre1_id":"3","i_genre2_id":"1","i_genre3_id":"1","onp_spectacle_id":null,"titre":"... 22\/13 ...","duree_partie_1":"0","duree_partie_2":"0","duree_partie_3":"0","duree_cocktail_1":"0","duree_cocktail_2":"0","nouveau":"0","cb_modification":null,"synopsis":null},
