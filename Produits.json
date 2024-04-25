@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5,
+    "code_article": "WATTENACTDI",
+    "enumere_de_gamme": "",
+    "ag_no": 0,
+    "libelle": "ACTIVITES - Liste d'attente",
+    "libelle_en": "",
+    "i_code_gescom_id": 2300,
+    "i_sous_famille_id": 6,
+    "i_categorie_spectacle_id": 9,
+    "publie": 0,
+    "cb_modification": "2018-01-05 16:31:00",
+    "published": null
+  },
+  {
+    "id": 7116,
+    "code_article": "XADNOCACTAJ",
+    "enumere_de_gamme": "17/02/2017",
+    "ag_no": 328251,
+    "libelle": "AD NOCTUM - CENTRE POMPIDOU - Activités Club Junior",
+    "libelle_en": "",
+    "i_code_gescom_id": 2077,
+    "i_sous_famille_id": 6,
+    "i_categorie_spectacle_id": 4,
+    "publie": 0,
+    "cb_modification": "2018-01-31 09:16:00",
+    "published": null
+  },
+  {
+    "id": 7117,
+    "code_article": "XADNOCACTAJ",
+    "enumere_de_gamme": "18/02/2017",
+    "ag_no": 328252,
+    "libelle": "AD NOCTUM - CENTRE POMPIDOU - Activités Club Junior",
+    "libelle_en": "",
+    "i_code_gescom_id": 2077,
+    "i_sous_famille_id": 6,
+    "i_categorie_spectacle_id": 4,
+    "publie": 0,
+    "cb_modification": "2018-01-31 09:16:00",
+    "published": null
+  },
+  {
+    "id": 7118,
+    "code_article": "XADNOCACTAJ",
+    "enumere_de_gamme": "19/02/2017",
+    "ag_no": 328253,
+    "libelle": "AD NOCTUM - CENTRE POMPIDOU - Activités Club Junior",
+    "libelle_en": "",
+    "i_code_gescom_id": 2077,
+    "i_sous_famille_id": 6,
+    "i_categorie_spectacle_id": 4,
+    "publie": 0,
+    "cb_modification": "2018-01-31 09:16:00",
+    "published": null
+  },
+  {
+    "id": 7119,
+    "code_article": "XADNOCACTAJ",
+    "enumere_de_gamme": "20/02/2017",
+    "ag_no": 328254,
+    "libelle": "AD NOCTUM - CENTRE POMPIDOU - Activités Club Junior",
+    "libelle_en": "",
+    "i_code_gescom_id": 2077,
+    "i_sous_famille_id": 6,
+    "i_categorie_spectacle_id": 4,
+    "publie": 0,
+    "cb_modification": "2018-01-31 09:16:00",
+    "published": null
+  }
+]
