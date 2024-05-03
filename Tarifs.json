@@ -1,58 +1,20 @@
 [
   {
-    "id": 1,
-    "libelle": "Entreprise",
-    "groupe": "Entreprise",
-    "groupe_id": 1,
-    "cb_modification": null
-  },
-  {
-    "id": 2,
-    "libelle": "Particulier",
-    "groupe": "Particulier",
-    "groupe_id": 2,
-    "cb_modification": null
-  },
-  {
-    "id": 3,
-    "libelle": "Autre Part.",
-    "groupe": "Particulier",
-    "groupe_id": 2,
-    "cb_modification": null
-  },
-  {
-    "id": 4,
-    "libelle": "Autre Ent.",
-    "groupe": "Entreprise",
-    "groupe_id": 1,
-    "cb_modification": null
-  },
-  {
     "id": 5,
-    "libelle": "Opéra",
-    "groupe": "Opéra",
-    "groupe_id": 2,
-    "cb_modification": "2018-10-30 20:03:00"
+    "i_article_id": 203,
+    "prix_ht": 10,
+    "cb_modification": null
   },
-  {
-    "id": 6,
-    "libelle": "Institution",
-    "groupe": "Institution",
-    "groupe_id": 2,
-    "cb_modification": "2018-10-30 20:03:00"
+ {
+    "id": 7116,
+    "i_article_id": 203,
+    "prix_ht": 10,
+    "cb_modification": null
   },
-  {
-    "id": 7,
-    "libelle": "Arop",
-    "groupe": "AropFedora",
-    "groupe_id": 3,
-    "cb_modification": "2018-02-28 09:32:00"
-  },
-  {
-    "id": 8,
-    "libelle": "Fondation Privée",
-    "groupe": "Particulier",
-    "groupe_id": 2,
-    "cb_modification": "2023-04-11 16:15:00"
+   {
+    "id": 7117,
+    "i_article_id": 203,
+    "prix_ht": 10,
+    "cb_modification": null
   }
 ]
