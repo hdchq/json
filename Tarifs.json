@@ -1,19 +1,19 @@
 [
   {
     "id": 5,
-    "i_article_id": 203,
+    "i_article_id": 1,
     "prix_ht": 30,
     "cb_modification": null
   },
  {
     "id": 7116,
-    "i_article_id": 203,
+    "i_article_id": 5,
     "prix_ht": 40,
     "cb_modification": null
   },
    {
     "id": 7117,
-    "i_article_id": 203,
+    "i_article_id": 3,
     "prix_ht": 50,
     "cb_modification": null
   }
