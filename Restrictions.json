@@ -2,17 +2,17 @@
   {
     "id": "1",
     "internal_name": "Jeunes Amis à Mécènes fondateur 1",
-    "adhesion_level": "BIENFAIT1"
+    "adhesion_level": "DONATEUR2"
   },
   {
     "id": "2",
     "internal_name": "Jeunes Amis à Mécènes fondateur 2",
-    "adhesion_level": "BIENFAIT2"
+    "adhesion_level": "DONATEUR2"
   },
   {
     "id": "3",
     "internal_name": "Jeunes Amis à Mécènes fondateur 3",
-    "adhesion_level": "BIENFAIT3"
+    "adhesion_level": "DONATEUR2"
   }
   
 ]
