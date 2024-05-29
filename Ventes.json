@@ -1,20 +1,20 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "num_document_sage": "Entreprise",
     "type_document": "Devis",
     "status": "Confirmé",
     "date_document": "2023-02-01"
   },
   {
-    "id": 2,
+    "id": "2",
     "num_document_sage": "Entreprise",
     "type_document": "Devis",
     "status": "Saisi",
     "date_document": "2023-02-04"
   },
   {
-    "id": 3,
+    "id": "3",
     "num_document_sage": "Entreprise",
     "type_document": "Devis",
     "status": "Archivé",
