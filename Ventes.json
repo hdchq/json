@@ -9,7 +9,7 @@
   {
     "id": 2,
     "num_document_sage": "Entreprise",
-    "type_document": "Devis	",
+    "type_document": "Devis",
     "status": "Saisi",
     "date_document": "2023-02-04"
   },
@@ -20,5 +20,4 @@
     "status": "Archivé",
     "date_document": "2023-02-03"
   }
-  
 ]
