@@ -2,7 +2,7 @@
   {
     "id": "1",
     "num_document_sage": "Entreprise",
-    "type_document": "Facture",
+    "type_document": "Facture comptabilisée",
     "status": "Confirmé",
     "date_document": "2023-02-01"
   },
