@@ -5,8 +5,8 @@
     "i_article_id": "1",
     "i_code_gescom_id": "1",
     "i_sous_famille_id": "1",
-	"i_categorie_id" :"1",
-	"i_saison_id":"1"
+    "i_categorie_id" :"1",
+    "i_saison_id":"1"
   },
   {
     "id": "2",
@@ -14,8 +14,8 @@
     "i_article_id": "2",
     "i_code_gescom_id": "2",
     "i_sous_famille_id": "2",
-	"i_categorie_id" :"2",
-	"i_saison_id":"2"
+    "i_categorie_id" :"2",
+    "i_saison_id":"2"
   },
   {
     "id": "3",
@@ -23,8 +23,8 @@
     "i_article_id": "3",
     "i_code_gescom_id": "3",
     "i_sous_famille_id": "3",
-	"i_categorie_id" :"3",
-	"i_saison_id":"3"
+    "i_categorie_id" :"3",
+    "i_saison_id":"3"
   }
   
 ]
