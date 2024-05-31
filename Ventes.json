@@ -2,14 +2,14 @@
   {
     "id": "1",
     "num_document_sage": "Entreprise",
-    "type_document": "Devis",
+    "type_document": "Facture",
     "status": "Confirmé",
     "date_document": "2023-02-01"
   },
   {
     "id": "2",
     "num_document_sage": "Entreprise",
-    "type_document": "Devis",
+    "type_document": "Facture",
     "status": "Saisi",
     "date_document": "2023-02-04"
   },
