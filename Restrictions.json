@@ -5,27 +5,27 @@
     "type_document": "Devis",
     "status": "Confirmé",
     "date_document": "2023-02-01",
-	"restriction_types": {
-                "id": "1",
-                "internal_name": "Jeunes Amis à Mécènes fondateur1",
-                "Article": "1",
-                "Categorie": "1",
-                "Sous-famille": "1"
-            }
+    "restriction_types": {
+      "id": "1",
+      "internal_name": "Jeunes Amis à Mécènes fondateur1",
+      "Article": "1",
+      "Categorie": "1",
+      "Sous-famille": "1"
+    }
   },
   {
     "id": "2",
     "num_document_sage": "Entreprise",
-    "type_document": "Devis	",
+    "type_document": "Devis",
     "status": "Saisi",
     "date_document": "2023-02-04",
-	"restriction_types": {
-                "id": "2",
-                "internal_name": "Jeunes Amis à Mécènes fondateur2",
-                "Article": "2",
-                "Categorie": "2",
-                "Sous-famille": "2"
-            }
+    "restriction_types": {
+      "id": "2",
+      "internal_name": "Jeunes Amis à Mécènes fondateur2",
+      "Article": "2",
+      "Categorie": "2",
+      "Sous-famille": "2"
+    }
   },
   {
     "id": "3",
@@ -33,14 +33,12 @@
     "type_document": "Devis",
     "status": "Archivé",
     "date_document": "2023-02-03",
-	"restriction_types": {
-                "id": "3",
-                "internal_name": "Jeunes Amis à Mécènes fondateur3",
-                "Article": "3",
-                "Categorie": "3",
-                "Sous-famille": "3"
-            }
-
+    "restriction_types": {
+      "id": "3",
+      "internal_name": "Jeunes Amis à Mécènes fondateur3",
+      "Article": "3",
+      "Categorie": "3",
+      "Sous-famille": "3"
+    }
   }
-  
 ]
